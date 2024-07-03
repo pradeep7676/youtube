@@ -34,10 +34,11 @@ p {
     color: rgb(96, 96, 96);
     margin-bottom: 4px;
 }
+
 .youtube-channel img {
     width: 10px;
     margin-top: 10px;
-    background-color:#606060;
+    background-color: #606060;
     font-size: 1px;
     padding-left: 5px;
     padding-right: 5px;
@@ -45,6 +46,7 @@ p {
     padding-bottom: 2px;
     border-radius: 10px;
 }
+
 .video-stats {
     /* display: inline-block; */
     font-size: 12px;
